@@ -67,7 +67,7 @@ export default function home (){
             </View>
 
             <View style={style.boxBotton}>
-                    <MaterialIcons name="person-outline" size={60} color={themas.colors.textcolor} />
+                    <MaterialIcons name="person" size={60} color={themas.colors.textcolor} />
                     <MaterialIcons name="home" size={60} color={themas.colors.textcolor} paddingLeft={80} />
                     <MaterialIcons name="location-on" size={60} color={themas.colors.textcolor} paddingLeft={80}/>
             </View>
